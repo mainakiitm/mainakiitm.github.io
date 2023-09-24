@@ -3,43 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Landing Page</title>
     <link rel="stylesheet" href="style.css">
+    <title>Your Landing Page</title>
 </head>
 <body>
     <header>
-        <h1>Landing Page</h1>
-        <nav>
-            <a href="#about">About</a>
-            <a href="#features">Features</a>
-            <a href="#contact">Contact</a>
-        </nav>
+        <h1>Welcome to Our Landing Page</h1>
     </header>
     <main>
-        <section id="about">
-            <h2>About</h2>
-            <p>This is a simple landing page created using HTML and CSS.</p>
-        </section>
-        <section id="features">
-            <h2>Features</h2>
-            <ul>
-                <li>Feature 1</li>
-                <li>Feature 2</li>
-                <li>Feature 3</li>
-            </ul>
-        </section>
-        <section id="contact">
-            <h2>Contact</h2>
-            <form action="#">
-                <input type="name" placeholder="Your name">
-                <input type="email" placeholder="Your email">
-                <textarea placeholder="Your message"></textarea>
-                <button type="submit">Submit</button>
-            </form>
-        </section>
+        <p>This is a simple landing page.</p>
     </main>
-    <footer>
-        <p>Copyright &copy; 2023</p>
-    </footer>
 </body>
 </html>
