@@ -1,54 +1,18 @@
 body {
-  font-family: sans-serif;
-  margin: 0;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
 }
 
 header {
-  background-color: #fff;
-  padding: 20px;
-}
-
-nav {
-  float: right;
-}
-
-nav a {
-  text-decoration: none;
-  color: #333;
-  padding: 10px;
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px;
 }
 
 main {
-  clear: both;
-  padding: 20px;
-}
-
-section {
-  margin-bottom: 20px;
-}
-
-h2 {
-  margin-top: 0;
-}
-
-form {
-  padding: 20px;
-}
-
-input, textarea {
-  width: 100%;
-  padding: 10px;
-  margin-bottom: 10px;
-}
-
-button {
-  background-color: #333;
-  color: #fff;
-  padding: 10px;
-}
-
-footer {
-  background-color: #333;
-  color: #fff;
-  padding: 20px;
+    text-align: center;
+    padding: 20px;
 }
